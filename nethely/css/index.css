@@ -1,13 +1,14 @@
 .fakeimg {
-    height: 1px;
-    background: #eee;
-    
+  height: 1px;
+  background: #eee;
 }
+
 .pfp{
   height: 300px;
 }
+
 #h1 {
-text-align: center
+  text-align: center
 }
 
 #progit{
